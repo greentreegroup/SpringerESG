@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "springeresg.com",
+  "Id": "6ffa26de-1846-4087-81e9-2a9ec717152f"
+}
